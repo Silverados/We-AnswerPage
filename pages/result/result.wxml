@@ -1,0 +1,7 @@
+<!--pages/result/result.wxml-->
+<view>
+  <view><text>A:{{A}}</text></view>
+  <view><text>B:{{B}}</text></view>
+  <view><text>C:{{C}}</text></view>
+  <view><text>您的类型是：{{Kind}}</text></view>
+</view>
